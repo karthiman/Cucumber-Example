@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="18.177" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="validating function of login in adatin webpage." name="validating login with incorrect username and password. - #1.1" time="17.871">
+<system-out><![CDATA[
+Given user is on Adactin Page on chrome.....................................passed
+When user enter "karthikman" and "Mani@123".................................passed
+And user should click on login button.......................................passed
+Then user should validate home page screen is present.......................passed
+]]></system-out>
+</testcase>
+</testsuite>
